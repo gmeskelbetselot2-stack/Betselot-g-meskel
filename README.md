@@ -1,2 +1,2 @@
 # MI
-i create this  app b/c this app need for music class
+I MADE AN APP THAT SEPARATE  A MUSIC INSTURMENT
